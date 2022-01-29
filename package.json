@@ -1,0 +1,12 @@
+{
+  "name": "obsidiananywhere",
+  "version": "1.0.0",
+  "description": "A simple script to open any .md file with obsidian.",
+  "main": "index.js",
+  "keywords": [
+    "markdown",
+    "obsidian"
+  ],
+  "author": "John Costa",
+  "license": "MIT"
+}
